@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fruit-team-manager/static/css/main.1e756529.css",
+    "main.js": "/fruit-team-manager/static/js/main.a70d8205.js",
+    "index.html": "/fruit-team-manager/index.html",
+    "main.1e756529.css.map": "/fruit-team-manager/static/css/main.1e756529.css.map",
+    "main.a70d8205.js.map": "/fruit-team-manager/static/js/main.a70d8205.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e756529.css",
+    "static/js/main.a70d8205.js"
+  ]
+}
